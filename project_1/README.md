@@ -55,8 +55,7 @@
 
 
 ### Результаты:  
-Резульаты выполненной работы хранятся в файле
-:arrow_up:[к оглавлению](https://github.com/KorotchenkoA/sf_data_science/tree/main/project_1)
+:[Результаты выполненной работы хранятся в файле](https://github.com/KorotchenkoA/sf_data_science/blob/main/project_1/Project-1.%20%D0%9D%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA-%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD.ipynb)
 
 ### Выводы:  
 Провели обработку данных из базы резюме, выгруженной с сайта поиска вакансий hh.ru..
