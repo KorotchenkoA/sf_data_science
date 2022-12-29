@@ -7,4 +7,4 @@ From the [Skillfactory Data Science course](https://skillfactory.ru/data-scienti
 
 * [Проект 1. Проект: Анализ вакансий на hh.ru](https://github.com/KorotchenkoA/sf_data_science/tree/main/project_1)
 
-* [Проект 2. Проект: Анализ вакансий на hh.ru](https://github.com/KorotchenkoA/sf_data_science/tree/main/project_2)
+* [Проект 2. Проект: Анализ вакансий на hh.ru SQL](https://github.com/KorotchenkoA/sf_data_science/tree/main/project_2)
